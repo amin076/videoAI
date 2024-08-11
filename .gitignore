@@ -1,0 +1,10 @@
+# Python files
+ __pycache__/
+*.py[cod]
+venv/
+
+# Node.js files
+node_modules/
+
+# Docker files
+*.log
