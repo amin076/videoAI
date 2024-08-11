@@ -25,10 +25,12 @@ project-root/
    git clone https://github.com/amin076/videoAI.git
    cd videoAI
 ## Set Up the Virtual Environment:
+    ```bash
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 ## Set Up Docker and Run the Application:
+    ```bash
 docker-compose up --build
 
 
